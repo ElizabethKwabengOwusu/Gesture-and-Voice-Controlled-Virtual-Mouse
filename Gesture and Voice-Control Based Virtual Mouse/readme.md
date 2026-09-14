@@ -17,14 +17,3 @@ Step 5: Use the following command to run the Gesture Controller
 	
 Step 6: Use the following command to run the Voice based control
 	>>python Wesley.py
-	
-Follow the video for Gesture and Voice-Control Based Virtual Mouse Project demonstration
-	>> 
-	
-	
-  
-## Team
-Website: VTUPulse.com
-Youtube: https://www.youtube.com/@MaheshHuddar
-Telegram: https://t.me/vtupulse
-  
